@@ -27,6 +27,7 @@
     "clean": "rm -r ./dist; yarn workspaces foreach run clean",
     "release": "yarn build-lib && yarn changeset publish",
     "version": "yarn changeset version && yarn --mode=update-lockfile",
+    "test:storybook": "yarn workspace @ui-kit-2022/docs run test:storybook",
     "test:unit": "yarn workspace @ui-kit-2022/components run test:unit && yarn workspace @ui-kit-2022/theme run test:unit"
   },
   "devDependencies": {

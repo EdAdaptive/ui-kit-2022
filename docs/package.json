@@ -8,7 +8,8 @@
     "preview": "yarn storybook",
     "storybook": "start-storybook -p 6006",
     "build-gh-pages": "BASE_PATH=/ui-kit-2022/ yarn build-storybook",
-    "clean": "rm -r storybook-static"
+    "clean": "rm -r storybook-static",
+    "test:storybook": "test-storybook"
   },
   "depedencies": {
     "@mui/material": "^5.10.6",
@@ -25,6 +26,7 @@
     "@storybook/addon-storysource": "^6.5.12",
     "@storybook/builder-vite": "^0.2.2",
     "@storybook/react": "^6.5.12",
+    "@storybook/test-runner": "^0.9.1",
     "@storybook/testing-library": "^0.0.13",
     "@ui-kit-2022/components": "0.0.1",
     "@ui-kit-2022/svgr-template": "^1.0.0",
