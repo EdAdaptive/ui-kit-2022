@@ -5183,7 +5183,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ui-kit-2022/components@0.0.1, @ui-kit-2022/components@workspace:packages/ui-kit-components":
+"@ui-kit-2022/components@1.0.0, @ui-kit-2022/components@workspace:packages/ui-kit-components":
   version: 0.0.0-use.local
   resolution: "@ui-kit-2022/components@workspace:packages/ui-kit-components"
   dependencies:
@@ -5192,7 +5192,7 @@ __metadata:
     "@testing-library/user-event": ^14.4.3
     "@types/jest": ^29.2.1
     "@ui-kit-2022/svgr-template": ^1.0.0
-    "@ui-kit-2022/theme": 0.0.1
+    "@ui-kit-2022/theme": 1.0.0
     jest: ^29.2.2
     jest-environment-jsdom: ^29.3.1
     jest-svg-transformer: ^1.0.0
@@ -5204,7 +5204,7 @@ __metadata:
     "@emotion/styled": ^11.10.4
     "@mui/icons-material": ^5.10.6
     "@mui/material": ^5.10.6
-    "@ui-kit-2022/theme": 0.0.1
+    "@ui-kit-2022/theme": 1.0.0
     chart.js: ^3.9.1
     chartjs-plugin-annotation: ^2.0.1
     chartjs-plugin-zoom: ^1.2.1
@@ -5229,9 +5229,9 @@ __metadata:
     "@storybook/builder-vite": ^0.2.2
     "@storybook/react": ^6.5.12
     "@storybook/testing-library": ^0.0.13
-    "@ui-kit-2022/components": 0.0.1
+    "@ui-kit-2022/components": 1.0.0
     "@ui-kit-2022/svgr-template": ^1.0.0
-    "@ui-kit-2022/theme": 0.0.1
+    "@ui-kit-2022/theme": 1.0.0
     babel-loader: ^8.2.5
     chart.js: ^3.9.1
     chartjs-plugin-annotation: ^2.0.1
@@ -5298,7 +5298,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ui-kit-2022/theme@0.0.1, @ui-kit-2022/theme@workspace:packages/ui-kit-theme":
+"@ui-kit-2022/theme@1.0.0, @ui-kit-2022/theme@workspace:packages/ui-kit-theme":
   version: 0.0.0-use.local
   resolution: "@ui-kit-2022/theme@workspace:packages/ui-kit-theme"
   dependencies:
